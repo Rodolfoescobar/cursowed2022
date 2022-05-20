@@ -1,0 +1,124 @@
+.contenedor{
+    width:1280px;
+    height:800px;
+    background-color: #AAE5AA;
+    margin: auto;
+}
+h1{
+    color: #1CC51D;
+    font-family: 'algerian';
+    text-align: center;
+    width:1280px;
+    height:100px;
+    background-color: #CEFDA3;
+}
+.menestras{
+    color: rgb(30, 15, 238);
+    font-family: 'algerian';
+    text-align: center;
+    width:320px;
+    height:104px;
+    background-color: #ECD633;
+    margin-top: -21px;
+}
+.verduras{
+    color: rgb(30, 15, 238);
+    font-family: 'algerian';
+    text-align: center;
+    width:320px;
+    height:104px;
+    background-color: #1DBC8C;
+    margin-left: 320px;
+    margin-top: -125px;
+   
+}
+.frutas{
+    color: rgb(30, 15, 238);
+    font-family: 'algerian';
+    text-align: center;
+    width:320px;
+    height: 104px;
+    background-color: #ECD633;
+    margin-left: 640px;
+    margin-top: -124px;
+}
+.carne{
+    color: rgb(30, 15, 238);
+    font-family: 'algerian';
+    text-align: center;
+    width:320px;
+    height:104px;
+    background-color: #1DBC8C;
+    margin-left: 960px;
+    margin-top: -125px;
+}
+.Abarrotes1{
+    font-family: 'arial black';
+    text-align: center;
+    width:320px;
+    height:298px;
+    background-color: #F6E987;
+    margin-top: -13px;
+}
+.Abarrotes2{
+    font-family: 'arial black';
+    text-align: center;
+    width:320px;
+    height:298px;
+    background-color: #F6E987;
+    margin-top: -16px;
+}
+.verduras1{
+    font-family: 'arial black';
+    text-align: center;
+    width:320px;
+    height:298px;
+    background-color: #81F6D3;
+    margin-left: 320px;
+    margin-top: -613px;
+}
+.verduras2{
+    font-family: 'arial black';
+    text-align: center;
+    width:320px;
+    height:298px;
+    background-color: #81F6D3;
+    margin-left: 320px;
+    margin-top: -16px;
+}
+.frutas1{
+    font-family: 'arial black';
+    text-align: center;
+    width:320px;
+    height:298px;
+    background-color: #F6E987;
+    margin-left: 640px;
+    margin-top: -614px;
+}
+.frutas2{
+    font-family: 'arial black';
+    text-align: center;
+    width:320px;
+    height:298px;
+    background-color: #F6E987;
+    margin-left: 640px;
+    margin-top: -16px;
+}
+.carne1{
+    font-family: 'arial black';
+    text-align: center;
+    width:320px;
+    height:298px;
+    background-color: #81F6D3;
+    margin-left: 960px;
+    margin-top: -610px;
+}
+.carne2{
+    font-family: 'arial black';
+    text-align: center;
+    width:320px;
+    height:298px;
+    background-color: #81F6D3;
+    margin-left: 960px;
+    margin-top: -17px;
+}
